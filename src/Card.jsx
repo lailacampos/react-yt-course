@@ -1,14 +1,22 @@
+import PropTypes from "prop-types";
 import Button from "./Button/Button";
 
-function Card() {
+
+function Card({id = 0, url = "#", title = "Title", text = "Text"}) {
     return(
-        <div className="card">
-            <img className="card-img" src="https://images.stockcake.com/public/1/0/3/1036dc42-b815-4aa1-aec2-593734c041c4_medium/joyful-puppy-smiling-stockcake.jpg" alt="" />
-            <h2 className="card-title">Laila</h2>
-            <p className="card-text">Cute puppy</p>
+        <div className="card" data-id={id}>
+            <img className="card-img" src={url} alt="" />
+            <h2 className="card-title">{title}</h2>
+            <p className="card-text">{text}</p>
             <Button />
         </div>
     );
 }
 
+Card.propTypes = {
+    id: PropTypes.number,
+    url: PropTypes.string,
+    title: PropTypes.string,
+    text: PropTypes.string
+}
 export default Card;

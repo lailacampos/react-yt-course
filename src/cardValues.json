@@ -1,0 +1,22 @@
+{
+    "imgsData": [
+        {
+            "id": 1,
+            "url": "https://images.stockcake.com/public/1/0/3/1036dc42-b815-4aa1-aec2-593734c041c4_medium/joyful-puppy-smiling-stockcake.jpg",
+            "title": "Puppy 1",
+            "text": "This is a puppy"
+        },
+        {
+            "id": 2,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjWbR5gOLvrlBCL9Jlf4crkoTpTUeGVrXPw&s",
+            "title": "Puppy 2",
+            "text": "Puppy with a bow"
+        },
+        {
+            "id": 3,
+            "url": "https://images.stockcake.com/public/b/b/0/bb045bd7-2f7e-4d36-914f-8f9085dbb1a9_medium/noble-canine-fashion-stockcake.jpg",
+            "title": "Puppy 3",
+            "text": "Puppy in a costume"
+        }
+    ]
+}

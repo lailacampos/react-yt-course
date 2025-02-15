@@ -76,6 +76,7 @@ button:hover {
 
 .card .card-img {
   max-width: 80%;
+  width: 250px;
   height: auto;
   border-radius: 50%;
 }
