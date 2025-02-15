@@ -36,6 +36,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react-hooks", "virtual:92d01c77b93de00ee522a67f45e19b429133990cbb6dbd9358d1aa88eb0854bbf3c2fd7f1a62a3c56f218633937076960930b66cb581cb8f8bf5531c7a3cd6c0#npm:5.1.0"],\
           ["eslint-plugin-react-refresh", "virtual:92d01c77b93de00ee522a67f45e19b429133990cbb6dbd9358d1aa88eb0854bbf3c2fd7f1a62a3c56f218633937076960930b66cb581cb8f8bf5531c7a3cd6c0#npm:0.4.19"],\
           ["globals", "npm:15.14.0"],\
+          ["prop-types", "npm:15.8.1"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:92d01c77b93de00ee522a67f45e19b429133990cbb6dbd9358d1aa88eb0854bbf3c2fd7f1a62a3c56f218633937076960930b66cb581cb8f8bf5531c7a3cd6c0#npm:19.0.0"],\
           ["vite", "virtual:92d01c77b93de00ee522a67f45e19b429133990cbb6dbd9358d1aa88eb0854bbf3c2fd7f1a62a3c56f218633937076960930b66cb581cb8f8bf5531c7a3cd6c0#npm:6.1.0"]\
@@ -3166,6 +3167,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react-hooks", "virtual:92d01c77b93de00ee522a67f45e19b429133990cbb6dbd9358d1aa88eb0854bbf3c2fd7f1a62a3c56f218633937076960930b66cb581cb8f8bf5531c7a3cd6c0#npm:5.1.0"],\
           ["eslint-plugin-react-refresh", "virtual:92d01c77b93de00ee522a67f45e19b429133990cbb6dbd9358d1aa88eb0854bbf3c2fd7f1a62a3c56f218633937076960930b66cb581cb8f8bf5531c7a3cd6c0#npm:0.4.19"],\
           ["globals", "npm:15.14.0"],\
+          ["prop-types", "npm:15.8.1"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:92d01c77b93de00ee522a67f45e19b429133990cbb6dbd9358d1aa88eb0854bbf3c2fd7f1a62a3c56f218633937076960930b66cb581cb8f8bf5531c7a3cd6c0#npm:19.0.0"],\
           ["vite", "virtual:92d01c77b93de00ee522a67f45e19b429133990cbb6dbd9358d1aa88eb0854bbf3c2fd7f1a62a3c56f218633937076960930b66cb581cb8f8bf5531c7a3cd6c0#npm:6.1.0"]\
